@@ -1,0 +1,46 @@
+.total{
+    display: flex;
+    justify-content: space-between;
+    background-color: #f6f6f6ff;
+    height: 60px;
+}
+
+.title{
+    display: block;
+    align-items: center;
+    justify-content: column;
+    font-size: 20px;
+    margin: 10px 20px;
+    padding: 5px 5px;
+}
+
+.title h1{
+    color: #305f35ff
+}
+
+.title{
+    color:#92c8adff ;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.register{
+    background-color: #92c8adff;
+    color: #fff;
+    padding: 4px 14px;
+    border-radius: 4px;
+    
+    
+}
+
+.enter{
+    background-color: #305f35ff;
+    color: #fff;
+    padding: 4px 14px;
+    border-radius: 4px;
+    margin: 0px 30px;
+}
