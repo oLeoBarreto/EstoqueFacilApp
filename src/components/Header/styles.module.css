@@ -1,8 +1,22 @@
 .total{
     display: flex;
     justify-content: space-between;
+    align-items: center;
     background-color: #f6f6f6ff;
     height: 60px;
+}
+
+.logo{
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #305f35ff;
+    margin: auto;
+}
+
+.logo span{
+    color:#92c8adff ;
 }
 
 .title{
@@ -15,7 +29,7 @@
 }
 
 .title h1{
-    color: #305f35ff
+    color: #305f35ff;
 }
 
 .title{
