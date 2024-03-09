@@ -9,7 +9,7 @@ export default function  Header(){
         <header>
             <section className={styles.total}>
                 <div className={styles.title}>
-                    <h1>Estoque <span>Facil</span></h1>
+                <Link className={styles.logo} href="/">Estoque <span>facil</span></Link>
                 </div>
 
                 <nav className={styles.nav}>
@@ -17,7 +17,7 @@ export default function  Header(){
                 <Link href="/register">Registrar</Link>
                 </div>
                 <div className={styles.enter}>
-                <Link href="/enter">Entrar</Link>
+                <Link href="/login">Entrar</Link>
                 </div>
                 </nav>
                 
