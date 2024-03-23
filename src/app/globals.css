@@ -2,18 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-:root{
-  --true-blue: #4a6fa5ff;
-  --raisin-black: #181d27ff;
-  --seasalt: #f6f6f6ff;
-  --cambridge-blue: #92c8adff;
-  --hunter-green: #305f35ff;
-}
-
 body{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   background-color: #ffff;
-  font-family: "Roboto";
 }
